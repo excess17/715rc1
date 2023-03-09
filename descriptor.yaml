@@ -1,0 +1,7 @@
+code: another-mfe
+description: another-mfe
+bundle-type: system-level-bundle
+components:
+  widgets:
+    - widgets/another-mfe-c0e268b3-descriptor.yaml
+  fragments: []
